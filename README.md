@@ -1,8 +1,8 @@
-##AUTHOR:: YASHASWI PATHAK
-##PROJECT_NAME: PACMAN
+* AUTHOR  YASHASWI PATHAK
+* PROJECT_NAME: PACMAN
 
 
-*Controls*
+* Controls
 
 
 1.Movement 
